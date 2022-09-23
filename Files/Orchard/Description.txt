@@ -1,0 +1,24 @@
+This is an introductory tutorial on writing an expert for MT5. The expert uses a simple moving average cross as a template example.
+
+This video is for 2 reasons. First it is as I said an introductory video for those just starting out to program for MT5.
+Secondly, I plan to use this as a template for future expert videos. That will allow me to keep the future videos shorter by not including basic information each time.
+There can be many variations to experts and I will release further introductory expert videos in the future.
+
+The moving average cross used here as an example simply buys each time a fast MA crosses above the slow MA and sells each time the fast MA crosses below the slow MA.
+Take profit and stop loss are at a fixed size.
+
+This video is for MT5. I am keeping the MT4 and MT5 versions separated to avoid confusion in the video.
+There is a separate video for MT4 with a link below.
+
+Links:
+MT4 Version: Coming soon
+
+If you are looking for a broker for MT5 or MT4 consider supporting our channel by using our broker by following one of these links.
+MT4: https://www.orchardforex.com/download-mt4
+MT5: https://www.orchardforex.com/download-mt5
+
+Web: https://orchardforex.com/%%%/
+Discord: https://orchardforex.com/discord/
+Twitter: https://twitter.com/OrchardForex
+Telegram: https://t.me/orchardforex
+
